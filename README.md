@@ -144,7 +144,7 @@ We developed a **Smart Attendance System** using RFID and ESP32 with real-time m
 ![Step 5](image/5.jpeg)
 
 ## Step 6: Mount the Buzzer into the breadboard
-![Step 6](image/6.jpeg)
+![Step 6](./image/6.jpeg)
 
 ## Step 7: Set up database 
 ![Step 7](image/7.jpeg)
